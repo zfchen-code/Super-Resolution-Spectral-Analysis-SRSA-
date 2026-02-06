@@ -22,8 +22,8 @@ Created: 2026-01-20
 
 
 ├── run_demo.m # One-click entry script to reproduce figures  
-├── README.md # This file
-├── README.pdf # This file  
+├── README.md # This file  
+├── README.pdf  
 │  
 ├── src_SRSA/ # Core SRSA algorithms  
 │ ├── DoSRSA.m  
