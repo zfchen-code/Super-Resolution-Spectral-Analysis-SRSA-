@@ -1,4 +1,4 @@
-# SRSA (Super-Resolution Spectral Analysis) – MATLAB Implementation
+#  Super-Resolution Spectral Analysis (SRSA) – MATLAB Implementation
 
 This repository provides a MATLAB implementation of **SRSA (Super-Resolution Spectral Analysis)** together with two demonstration scripts:
 
