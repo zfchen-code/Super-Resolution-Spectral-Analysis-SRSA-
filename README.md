@@ -2,9 +2,9 @@
 
 This repository provides a MATLAB implementation of **SRSA (Super-Resolution Spectral Analysis)** together with three demonstration scripts:
 
-1. **High-frequency resolution ** – illustrates the ability of SRSA to resolve closely spaced spectral components under noise-free conditions.
-2. **Robustness of K ** – demonstrates the insensitivity of SRSA to the initial model-order choice (`K_used`) and compares the results with the Fourier spectrum.
-3. **Real SG data analysis ** – This script demonstrates the analysis of real data.
+1. **High-frequency resolution** – illustrates the ability of SRSA to resolve closely spaced spectral components under noise-free conditions.
+2. **Robustness of K** – demonstrates the insensitivity of SRSA to the initial model-order choice (`K_used`) and compares the results with the Fourier spectrum.
+3. **Real SG data analysis** – This script demonstrates the analysis of real data.
 
 More detailed comments are provided in the functions **DoSRSA.m** and scripts **Demo1**, **Demo2.m**,  **Demo3.m**.
 
